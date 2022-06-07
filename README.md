@@ -1,5 +1,5 @@
 # reset-NX-OS
-Procédure de reset pour NX-OS
+Procédure de reset pour Cisco Nexus (NX-OS)
 
 ### Image Kickstart
 L'image Kickstart contient le noyau Linux, les pilotes de base et le système de fichiers initial.
